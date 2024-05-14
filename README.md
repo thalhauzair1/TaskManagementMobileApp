@@ -29,7 +29,7 @@ To use the app, follow these steps:
 
 1. Create a new task by tapping on the "Add Task" button.
 2. Fill in the details of the task, such as title, description, due date, and status.
-3. Swipe left or right on a task card to change its status.
+3. Click on the left or right arrow icons on a task card to change its status.
 4. Tap on a task card to view more details or edit the task.
 5. To delete a task, tap on the delete icon on the task card.
 
