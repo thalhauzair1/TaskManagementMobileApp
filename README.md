@@ -18,10 +18,11 @@ This application is designed to help users manage their tasks efficiently. It al
 ## Installation
 To install the app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/thalhauzair1/TaskManagement.git`
-2. Navigate into the directory: `cd TaskManagement.git`
+1. Clone the repository: `git clone https://github.com/thalhauzair1/TaskManagementMobileApp.git`
+2. Navigate into the directory: `cd TaskManagementMobileApp.git`
 3. Install the dependencies: `npm install`
 4. Start the app: `npm start`
+5. Scan the Barcode and the app is ready to use.
 
 ## Usage
 To use the app, follow these steps:
